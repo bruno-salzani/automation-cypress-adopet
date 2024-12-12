@@ -1,4 +1,4 @@
-# Automação de Testes com Cypress - Adopet
+# Automação de Testes com Cypress (Javascript)
 
 Este projeto foi desenvolvido com o intuito de automatizar os testes da aplicação **Adopet** utilizando o framework **Cypress**. O objetivo é validar funcionalidades críticas da aplicação, como login, cadastro e a integração com a API, garantindo que as principais operações funcionem corretamente e com eficiência.
 
