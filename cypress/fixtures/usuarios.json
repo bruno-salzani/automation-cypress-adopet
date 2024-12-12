@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+      {
+          "name": "Tony Stark",
+          "email": "tony.stark@avengers.com",
+          "password": "Senha54321"
+      },
+      {
+          "name": "Steve Rogers",
+          "email": "steve.rogers@avengers.com",
+          "password": "Senha98765"
+      },
+      {
+          "name": "Natasha Romanoff",
+          "email": "natasha.romanoff@avengers.com",
+          "password": "Senha56789"
+      },
+      {
+          "name": "Bruce Banner",
+          "email": "bruce.banner@avengers.com.br",
+          "password": "Senha87654"
+      },
+      {
+          "name": "Clint Barton",
+          "email": "clint.barton@avengers.com",
+          "password": "Senha34567"
+      },
+      {
+          "name": "Thor Odinson",
+          "email": "thor.odinson@avengers.com.br",
+          "password": "Senha76543"
+      }
+  ]
+}

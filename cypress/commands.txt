@@ -1,0 +1,25 @@
+# Abra o Cypress no modo gráfico
+open:
+	npx cypress open
+
+# Execute todos os testes no modo headless
+run:
+	npx cypress run
+
+# Execute testes filtrados por tag
+tag:
+	npx cypress run --env grep="@suaTag"
+
+# Execute testes em um navegador específico
+browser:
+	npx cypress run --browser chrome
+
+# Execute testes em modo headless com um relatório de resultados
+report:
+	npx cypress run --reporter mochawesome
+
+# Limpe os relatórios e logs
+clean:
+	rm -rf cypress/reports/*
+
+npx cypress run --reporter mochawesome
