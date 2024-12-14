@@ -54,7 +54,3 @@ Este projeto foi desenvolvido com o intuito de automatizar os testes da aplicaç
 5. Caso queira rodar os testes em modo headless (sem interface gráfica):
    ```bash
     npx cypress run
-   
-## Link do Repositório
-
-[Repositório no GitHub](https://github.com/bruno-salzani/automation-cypress-adopet)
