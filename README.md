@@ -1,10 +1,10 @@
-# Automação de Testes com Cypress (Javascript)
+# Automação de Testes com Cypress (Adopet)
 
-Este projeto foi desenvolvido com o intuito de automatizar os testes da aplicação **Adopet** utilizando o framework **Cypress**. O objetivo é validar funcionalidades críticas da aplicação, como login, cadastro e a integração com a API, garantindo que as principais operações funcionem corretamente e com eficiência.
+Este projeto foi desenvolvido com o intuito de automatizar os testes da aplicação Adopet utilizando o framework Cypress. O objetivo é validar funcionalidades críticas, como login, cadastro e integração com a API, garantindo o bom funcionamento da aplicação.
 
 ## 🎯 Objetivo do Projeto
-
-O objetivo deste projeto é estudar e praticar a automação de testes utilizando o Cypress. Durante o curso **"[Cypress: Automatizando Testes E2E](https://cursos.alura.com.br/certificate/5c3f390b-eb84-46db-abf6-300bfd1adb33?lang)"** da Alura, foram exploradas as melhores práticas e funcionalidades do Cypress, criando um conjunto de testes que garantem a qualidade das operações da aplicação Adopet.
+1. Automatizar os testes das funcionalidades da aplicação Adopet, como login, cadastro e integração com a API, garantindo que as operações principais funcionem corretamente.
+2. Estudar e praticar a automação de testes utilizando o Cypress. Durante o curso **"[Cypress: Automatizando Testes E2E](https://cursos.alura.com.br/certificate/5c3f390b-eb84-46db-abf6-300bfd1adb33?lang)"** da Alura, foram exploradas as melhores práticas e funcionalidades do Cypress, criando um conjunto de testes que garantem a qualidade das operações da aplicação Adopet.
 
 ## 🛠️ Funcionalidades
 
@@ -33,7 +33,7 @@ O objetivo deste projeto é estudar e praticar a automação de testes utilizand
 
 - [Cypress](https://www.cypress.io/): Framework para automação de testes end-to-end.
 - [Mochawesome](https://github.com/adamgruber/mochawesome): Utilizado para gerar relatórios detalhados e visualizáveis dos testes.
-- **Node.js**: Ambiente para executar o Cypress.
+- [Node.js](https://nodejs.org/): Ambiente para executar o Cypress.
 
 ## 📦 Como Executar
 
@@ -54,3 +54,7 @@ O objetivo deste projeto é estudar e praticar a automação de testes utilizand
 5. Caso queira rodar os testes em modo headless (sem interface gráfica):
    ```bash
     npx cypress run
+   
+## Link do Repositório
+
+[Repositório no GitHub](https://github.com/bruno-salzani/automation-cypress-adopet)
